@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Software Engineer Diaries</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://sugannaidu.github.io/"/>
+  <updated>2018-10-24T13:10:50.515Z</updated>
+  <id>https://sugannaidu.github.io/</id>
+  
+  <author>
+    <name>Sugan Naidu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My first post ... @Dariel :)</title>
+    <link href="https://sugannaidu.github.io/2018/10/24/My-first-post/"/>
+    <id>https://sugannaidu.github.io/2018/10/24/My-first-post/</id>
+    <published>2018-10-24T13:08:45.000Z</published>
+    <updated>2018-10-24T13:10:50.515Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Week-0ne-Dariel-08-10-2018-to-12-10-2018"><a href="#Week-0ne-Dariel-08-10-2018-to-12-10-2018" class="headerlink" title="Week 0ne @ Dariel (08/10/2018 to 12/10/2018)"></a>Week 0ne @ Dariel (08/10/2018 to 12/10/2018)</h3><hr><h6 id="Day-1"><a href="#Day-1" class="headerlink" title="Day 1"></a>Day 1</h6><ul><li style="list-style: none"><input type="checkbox" checked> complete discovery group life documents</li><li style="list-style: none"><input type="checkbox" checked> get final take on which client to settle on CIB or BRMS?</li><li style="list-style: none"><input type="checkbox" checked> save notes to bitbucket - <a href="https://bitbucket.org/teamdarielconsultant/" target="_blank" rel="noopener">teamdarielconsultant — Bitbucket</a></li></ul><h6 id="Day-2"><a href="#Day-2" class="headerlink" title="Day 2"></a>Day 2</h6><ul><li style="list-style: none"><input type="checkbox" checked> Engaging with co-workers</li><li style="list-style: none"><input type="checkbox" checked> Lunch for new starters</li><li style="list-style: none"><input type="checkbox" checked> Reading up on  OpenShift (TechStack @ Absa CiB -&gt;  Docker / Kubernetes / SpringBoot)</li></ul><h6 id="Day-3"><a href="#Day-3" class="headerlink" title="Day 3"></a>Day 3</h6><ul><li style="list-style: none"><input type="checkbox" checked> Reading up on  OpenShift (TechStack @ Absa CiB -&gt;  Docker / Kubernetes / SpringBoot)</li><li style="list-style: none"><input type="checkbox" checked> ~~setup docker on windows (abandoned - to many dependencies like Hyper-V etc)</li><li style="list-style: none"><input type="checkbox" checked> create a virtualbox image for ubuntu</li></ul><h6 id="Day-4"><a href="#Day-4" class="headerlink" title="Day 4"></a>Day 4</h6><ul><li style="list-style: none"><input type="checkbox" checked> Research on OAuth + API versioning (TechStack @ Absa CiB -&gt;  Docker / Kubernetes / SpringBoot)</li><li style="list-style: none"><input type="checkbox" checked> hr documents / forms / etc with Busi</li><li style="list-style: none"><input type="checkbox" checked> Meeting with Lucy Ferriera - Absa (SDS and Midbase Service Development for C1V)<blockquote><pre><code>---Notes--- 1. create CIB specific api&apos;s  2. use oauth as authentication pattern - for alignment with CIB 3. should provide feeedback on regular basis 4. Raise risks &amp; dependencies. 5. make sure right thing is built - ask questions asap 6. provide technical recommendation in terms of architecture and design 7. people: 7.1 Lucy Ferriera, projects person based in Sandton 7.2 Karen Bonthuys, (Head of systems that will consume api&apos;s) based in Sandton 7.3 Gerhard Maree, ()  based in CBD Absa Towers 8. Scalability of solution - Hadoop to be used for data solution 9. api version strategies 10. MongoDB datastore ------------</code></pre></blockquote></li></ul><h6 id="Day-5"><a href="#Day-5" class="headerlink" title="Day 5"></a>Day 5</h6><ul><li style="list-style: none"><input type="checkbox" checked> Research on OAuth  (TechStack @ Absa CiB -&gt;  Docker / Kubernetes / SpringBoot / OpenShift) </li><li style="list-style: none"><input type="checkbox" checked> complete timesheets  </li></ul><hr><h6 id="To-Do"><a href="#To-Do" class="headerlink" title="To Do"></a>To Do</h6><ul><li style="list-style: none"><input type="checkbox"> </li></ul><hr><h6 id="Articles"><a href="#Articles" class="headerlink" title="Articles"></a>Articles</h6><p><a href="https://www.markdownguide.org/cheat-sheet" target="_blank" rel="noopener">Cheat Sheet | Markdown Guide</a></p><p><em>TechStack for ABSA</em><br><a href="http://www.javaguides.net/2018/09/installing-spring-boot-with-maven-and-gradle.html" target="_blank" rel="noopener">Installing Spring Boot with Maven and Gradle</a><br><a href="https://dzone.com/articles/microservices-tutorials-best-of-september-2018?edition=408193&amp;utm_source=Daily%20Digest&amp;utm_medium=email&amp;utm_campaign=Daily%20Digest%202018-10-10" target="_blank" rel="noopener">Microservices Tutorials — Best of September 2018 - DZone Microservices</a><br><a href="https://www.baeldung.com/rest-versioning" target="_blank" rel="noopener">Versioning a REST API | Baeldung</a><br><a href="https://medium.com/@edgar/whats-the-best-strategy-for-versioning-a-restful-api-29b90dbbcf5f" target="_blank" rel="noopener">What’s the Best Strategy for Versioning a RESTful API?</a><br><a href="https://blog.apisyouwonthate.com/api-versioning-has-no-right-way-f3c75457c0b7" target="_blank" rel="noopener">API Versioning Has No “Right Way” – APIs You Won’t Hate</a><br><a href="https://cloud.google.com/blog/products/gcp/api-design-which-version-of-versioning-is-right-for-you" target="_blank" rel="noopener">API design: Which version of versioning is right for you? | Google Cloud Blog</a><br><a href="https://aaronparecki.com/oauth-2-simplified/" target="_blank" rel="noopener">OAuth 2 Simplified • Aaron Parecki</a><br><a href="http://spring.io/guides/tutorials/spring-boot-oauth2/" target="_blank" rel="noopener">Tutorial · Spring Boot and OAuth2</a></p><p><a href="http://spring.io/guides" target="_blank" rel="noopener">Guides</a><br><a href="http://spring.io/guides/tutorials/spring-security-and-angular-js/" target="_blank" rel="noopener">Tutorial · Spring Security and Angular</a></p><p><em>DevOps</em><br><a href="https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737" target="_blank" rel="noopener">How To Become a DevOps Engineer In Six Months or Less</a><br><a href="https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb" target="_blank" rel="noopener">The 2018 DevOps RoadMap – Hacker Noon</a></p><p><em>ML/AI</em><br><a href="https://hackernoon.com/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-7a392a3086ec" target="_blank" rel="noopener">‘I want to learn Artificial Intelligence and Machine Learning. Where can I start?’</a></p><p><em>CS Skills</em><br><a href="https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0" target="_blank" rel="noopener">50+ Data Structure and Algorithms Interview Questions for Programmers</a></p><hr><h6 id="Brain-Dump"><a href="#Brain-Dump" class="headerlink" title="Brain Dump "></a>Brain Dump <a name="braindump"></a></h6><ul><li>setup application template for java based web project</li><li>consider creating a templates folder for reusable pages, etc.</li><li>Git commands to resolve git push issue: <pre><code>` git config --global core.compression 1` </code></pre>  <code>git@bitbucket.org:teamdarielconsultant/dariel-repo.git</code><br>  <code>git remote set-url origin ssh_url(git@bitbucket.org:repo.git)</code> <h6 id="Tip-of-the-Week"><a href="#Tip-of-the-Week" class="headerlink" title="Tip of the Week"></a>Tip of the Week</h6><em>Problem : Window opens in non existent secondary screen, to bring back to the current screen,  use</em> <pre><code>`&lt;ALT&gt;&lt;SPACE&gt;, then select &lt;MAXIMISE&gt; `</code></pre></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Week-0ne-Dariel-08-10-2018-to-12-10-2018&quot;&gt;&lt;a href=&quot;#Week-0ne-Dariel-08-10-2018-to-12-10-2018&quot; class=&quot;headerlink&quot; title=&quot;Week 0ne @ D
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sugannaidu.github.io/2018/10/24/hello-world/"/>
+    <id>https://sugannaidu.github.io/2018/10/24/hello-world/</id>
+    <published>2018-10-24T12:26:41.031Z</published>
+    <updated>2018-10-24T12:26:41.031Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
